@@ -440,6 +440,7 @@ h3{
   cursor: pointer;
 }
 
+/*
 .album img:after{
     display: block;
     content: "";
@@ -449,6 +450,7 @@ h3{
     position: absolute;
     bottom: 0;
 }
+*/
 /* Form */
 
 .guestbook form input[type='text'], .guestbook form textarea{
