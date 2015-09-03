@@ -557,6 +557,9 @@ h3{
   #titles{
     margin-top: 70px;
   }
+  .scroll{
+    display: none;
+  }
   #content, #slider{
     display: inline-block;
     width: 100%;
